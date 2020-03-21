@@ -64,6 +64,6 @@ when done you will have these four items in .divi
     
     5b Version 2 Divi Smart node
 
-    ```diviservicestop```
+    ```diviservicestart```
 
 (hit enter)
